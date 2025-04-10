@@ -6,6 +6,8 @@ const sounds = [
     name: "SCREAMING",
     file: "screaming.wav",
   },
+  { name: "Boo", file: "boo.mp3" },
+  { name: "Laughing", file: "laugh.mp3" },
 ];
 
 const container = document.getElementById("buttonContainer");
