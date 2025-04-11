@@ -22,9 +22,3 @@
       #@e%%77t7OO77%%CR7777%@@B@@S%tt7t777tt7tttt777t7ttQB77tt7@
     ^@Ot%%%7t7%%%S#Se67%tt7777t%777t7tt777ttt7tt777t7777#%77tt7Q
     @777%77ttt7%(77t77t777t77%B@@#%(t7ttt7tt7tK@%7%@RQ@%7tt7tt7%B
-   /et%%7tt77%tt7tt77%t7C@@S77%t7%%t7t7t7t%77tt7R@@    R7tt%B@@@s
-    @%7777t7t77%t7t%CQ@K%77777t777t77t7tB777tt7t7%B    @%t7O^
-     (R@BOCC%OK@@Q    ^@@e%3R@@e%777t7OB@77777tt6@      Q77B
-                       S7%%7%7GK@S     tOt7t7tt7%#      3@@O
-                       RR@R7t%C%@      tR@@%7tR@@@
-                          RRR ~R~          @SR^
