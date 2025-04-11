@@ -2,6 +2,8 @@ const SOUNDS_DIR = "sounds";
 const sounds = [
   { name: "Chika Chikaaa", file: "chica.mp3" },
   { name: "BOW BOW", file: "bowbow.mp3" },
+  { name: "oh yeah", file: "oh_yeah.mp3" },
+  { name: "OHH YEAH", file: "ohhhh_yeah.mp3" },
   {
     name: "SCREAMING",
     file: "screaming.wav",
